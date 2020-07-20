@@ -1,8 +1,8 @@
-- name: Apache Software Foundation
-  description: 'The all-volunteer ASF develops, stewards, and incubates more than 350 Open Source projects and initiatives that cover a wide range of technologies.'
+- name: PET Farmácia
+  description: 'Descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição.'
   logo: https://www.apache.org/foundation/press/kit/feather_small.png
-  website: https://www.apache.org/
-  twitter: TheASF
+  website: https://petfarmaciaufpr.wordpress.com/
+  instagram: petfarmaciaufpr
 
 - name: Linux Foundation
   description: 'A nonprofit organization enabling mass innovation through open source. Updates on our events at @eventsLF #Linux #OpenSource #learnLinux'
