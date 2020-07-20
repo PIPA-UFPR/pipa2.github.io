@@ -24,8 +24,8 @@
   }
   .ButtonGroup > .Button.is-selected,
   .ButtonGroup > .Button.is-selected:visited {
-    background-color: #1da1f2;
-    border: 1px solid #1da1f2;
+    background-color: #1b1464;
+    border: 1px solid #1b1464;
     color: white;
   }
   .ButtonGroup > .Button.is-selected:focus,
@@ -239,8 +239,8 @@
     /* 2 */
     position: relative;
     background-color: white;
-    border: 1px solid #1da1f2;
-    color: #1da1f2;
+    border: 1px solid #1b1464;
+    color: #1b1464;
     cursor: pointer;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
     font-weight: 700;
@@ -248,8 +248,8 @@
   .Button:focus,
   .Button.is-focus {
     background: white;
-    border-color: #1da1f2;
-    color: #1da1f2;
+    border-color: #1b1464;
+    color: #1b1464;
     text-decoration: none;
   }
   .Button:focus:not(.is-mouseFocus),
@@ -259,14 +259,14 @@
   .Button:hover,
   .Button.is-hover {
     background-color: #e8f6fe;
-    color: #1da1f2;
+    color: #1b1464;
     text-decoration: none;
   }
   .Button:active,
   .Button.is-active {
     background: #d2ecfc;
-    border-color: #1da1f2;
-    color: #1da1f2;
+    border-color: #1b1464;
+    color: #1b1464;
   }
   .Button:focus:active:not(.is-mouseFocus),
   .Button.is-focus.is-active {
@@ -293,16 +293,16 @@
   .Button.Button--primary:visited,
   .ButtonGroup--primary > .Button,
   .ButtonGroup--primary > .Button:visited {
-    background-color: #1da1f2;
-    border: 1px solid #1da1f2;
+    background-color: #1b1464;
+    border: 1px solid #1b1464;
     color: white;
   }
   .Button.Button--primary:focus,
   .Button.Button--primary.is-focus,
   .ButtonGroup--primary > .Button:focus,
   .ButtonGroup--primary > .Button.is-focus {
-    background: #1da1f2;
-    border-color: #1da1f2;
+    background: #1b1464;
+    border-color: #1b1464;
     color: white;
   }
   .Button.Button--primary:focus:not(.is-mouseFocus),
@@ -339,8 +339,8 @@
   .ButtonGroup--primary > .Button[disabled],
   .ButtonGroup--primary > .Button.is-disabled,
   fieldset[disabled] .ButtonGroup--primary > .Button {
-    background-color: #1da1f2;
-    border-color: #1da1f2;
+    background-color: #1b1464;
+    border-color: #1b1464;
     box-shadow: none;
   }
   .Button.Button--tertiary,
