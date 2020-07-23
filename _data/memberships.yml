@@ -1,36 +1,36 @@
-- name: PET Farmácia
+- name: PET Farmácia UFPR
   description: 'Descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição.'
   logo: https://www.apache.org/foundation/press/kit/feather_small.png
   website: https://petfarmaciaufpr.wordpress.com/
   instagram: petfarmaciaufpr
 
-- name: PET Elétrica
+- name: PET Elétrica UFPR
   description: 'Descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição.'
   logo: https://upload.wikimedia.org/wikipedia/commons/e/ed/Linux_Foundation_Logo.svg
   website: http://peteletrica.blogspot.com/
-  instagram: pet
+  instagram: pet_eletrica
 
-- name: PET História
+- name: PET História UFPR
   description: 'Descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição.'
   logo: https://pbs.twimg.com/profile_images/885315135409082368/CP7GGSWx_400x400.jpg
-  website: https://www.opensource.org
-  instagram: pet
+  website: pethistoriaufpr.wordpress.com
+  instagram: pethistoria.ufpr
 
-- name: PET Floresta
+- name: PET Floresta UFPR
   description: 'Descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição.'
   logo: https://pbs.twimg.com/profile_images/439154912719413248/pUBY5pVj_200x200.png
-  website: https://www.python.org/psf-landing/
-  instagram: pet
+  website: https://www.facebook.com/ufpr.petfloresta/?ref=content_filter
+  instagram: pet_floresta
 
-- name: PET Química
+- name: PET Química UFPR
   description: 'Descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição.'
   logo: https://pbs.twimg.com/profile_images/3310435403/dc47c969494d3279783610ba3298f58b_400x400.png
-  website: https://www.python.org/psf-landing/
-  instagram: pet
+  website: petquimica.ufpr.br
+  instagram: petquimica
 
-- name: PET Engenharia Química
+- name: PET Engenharia Química UFPR
   description: 'Descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição.'
   logo: https://upload.wikimedia.org/wikipedia/commons/a/ab/Unicode_logo.svg
-  website: https://www.python.org/psf-landing/
-  instagram: pet
+  website: https://petequfpr.wixsite.com/peteq
+  instagram: petequfpr
 
