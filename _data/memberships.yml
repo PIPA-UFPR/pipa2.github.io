@@ -1,30 +1,30 @@
 - name: PET Farmácia UFPR
   description: 'Descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição.'
-  logo: https://www.apache.org/foundation/press/kit/feather_small.png
+  logo: logo_pet_farmacia.jpg
   website: https://petfarmaciaufpr.wordpress.com/
   instagram: petfarmaciaufpr
 
 - name: PET Elétrica UFPR
   description: 'Descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição.'
-  logo: https://upload.wikimedia.org/wikipedia/commons/e/ed/Linux_Foundation_Logo.svg
+  logo: logo_pet_eletrica.png
   website: http://peteletrica.blogspot.com/
   instagram: pet_eletrica
 
 - name: PET História UFPR
   description: 'Descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição.'
-  logo: https://pbs.twimg.com/profile_images/885315135409082368/CP7GGSWx_400x400.jpg
+  logo: logo_pet_historia.jpg
   website: pethistoriaufpr.wordpress.com
   instagram: pethistoria.ufpr
 
 - name: PET Floresta UFPR
   description: 'Descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição.'
-  logo: https://pbs.twimg.com/profile_images/439154912719413248/pUBY5pVj_200x200.png
+  logo: logopetverdeFloresta.png
   website: https://www.facebook.com/ufpr.petfloresta/?ref=content_filter
   instagram: pet_floresta
 
 - name: PET Química UFPR
   description: 'Descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição descrição.'
-  logo: https://pbs.twimg.com/profile_images/3310435403/dc47c969494d3279783610ba3298f58b_400x400.png
+  logo: logo_pet_quimica.png
   website: petquimica.ufpr.br
   instagram: petquimica
 
