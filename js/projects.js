@@ -65,7 +65,7 @@ var renderProjects = function(projectsList, searchString="") {
             // GitHub link
             var githubLink = document.createElement('a')
             githubLink.href = getGithubURL(project)
-            githubLink.innerHTML = "GitHub"
+            githubLink.innerHTML = "Fotos"
             githubLink.target = "_blank"
             projectLinksDiv.appendChild(githubLink)
 
@@ -86,7 +86,7 @@ var renderProjects = function(projectsList, searchString="") {
             metricsButton.setAttribute("onclick", "window.open('https://opensource.twitter.com/metrics/" + project.nameWithOwner + "/WEEKLY')")
             metricsButton.type = "button"
             metricsButton.className = "Button Button--tertiary"
-            metricsButton.innerHTML = "Metrics"
+            metricsButton.innerHTML = "Saiba mais"
             projectDiv.appendChild(metricsButton)
 
             /* Finally Add the project card to the page */
