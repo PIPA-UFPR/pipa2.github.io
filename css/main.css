@@ -44,15 +44,18 @@
 
 body {
   background-color: white;
+	cursor: url("https://img.icons8.com/color/48/000000/kite.png"), auto;
 }
 
 .section {
   padding: calc(var(--feather-grid-mega) * 2) 0;
+	cursor: url("https://img.icons8.com/color/48/000000/kite.png"), auto;
 }
 
 .container {
   max-width: var(--feather-grid-page-width);
   margin: 0 auto;
+	cursor: url("https://img.icons8.com/color/48/000000/kite.png"), auto;
 }
 
 /* Navigation wrapper */
@@ -64,12 +67,14 @@ nav {
   position: fixed;
   z-index: 2;
   overflow-y: visible;
+	cursor: url("https://img.icons8.com/color/48/000000/kite.png"), auto;
 }
 
 /* Navigation title - web */
 
 .nav-title {
   display: inline-block;
+	cursor: url("https://img.icons8.com/color/48/000000/kite.png"), auto;
 }
 
 span.Icon--logo {
@@ -77,10 +82,12 @@ span.Icon--logo {
   position: absolute;
   top: calc(var(--feather-grid-xxsmall) * 1.5);
   left: var(--feather-grid-small);
+	cursor: url("https://img.icons8.com/color/48/000000/kite.png"), auto;
 }
 
 a.home-link, a.nav-link {
   text-decoration: none;
+	cursor: url("https://img.icons8.com/color/48/000000/kite.png"), auto;
 }
 
 a.home-link:link, a.home-link:visited, .home-text {
@@ -89,15 +96,18 @@ a.home-link:link, a.home-link:visited, .home-text {
   margin: 0;
   margin-right: var(--feather-grid-large);
   margin-left: var(--feather-grid-mega);
+	cursor: url("https://img.icons8.com/color/48/000000/kite.png"), auto;
 }
 
 a.home-link:hover, a.home-link:active {
   color: var(--tw-color-blue-faded);
+	cursor: url("https://img.icons8.com/color/48/000000/kite.png"), auto;
 }
 
 span.Icon--caretDown {
   color: white;
   display: none;
+	cursor: url("https://img.icons8.com/color/48/000000/kite.png"), auto;
 }
 
 /* Navigation menu - web */
@@ -106,19 +116,23 @@ span.Icon--caretDown {
   display: inline-block;
   padding: 0;
   margin: 0;
+	cursor: url("https://img.icons8.com/color/48/000000/kite.png"), auto;
 }
 
 .nav-list-item {
   display: inherit;
   margin-left: var(--feather-grid-large);
+	cursor: url("https://img.icons8.com/color/48/000000/kite.png"), auto;
 }
 
 a.nav-link:link, a.nav-link:visited {
   color: white;
+	cursor: url("https://img.icons8.com/color/48/000000/kite.png"), auto;
 }
 
 a.nav-link:hover, a.nav-link:active {
   color: var(--tw-color-blue-faded);
+	cursor: url("https://img.icons8.com/color/48/000000/kite.png"), auto;
 }
 
 .home-link {
@@ -138,6 +152,7 @@ a.nav-link:hover, a.nav-link:active {
 .header, .footer {
   background-color: var(--tw-color-blue-primary);
   color: white;
+	cursor: url("https://img.icons8.com/color/48/000000/kite.png"), auto;
 }
 
 .simple-header {
@@ -155,6 +170,7 @@ a.nav-link:hover, a.nav-link:active {
 .footer {
   padding-top: var(--feather-grid-mega);
   padding-bottom: var(--feather-grid-mega);
+	cursor: url("https://img.icons8.com/color/48/000000/kite.png"), auto;
 }
 
 .footer .Grid-cell {
@@ -216,6 +232,7 @@ a.foot-link:hover, a.foot-link:active {
 body {
 	font-size: var(--feather-font-size-large);
 	line-height: var(--feather-line-height-large);
+	cursor: url("https://img.icons8.com/color/48/000000/kite.png"), auto;
 }
 
 .center-text {
