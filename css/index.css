@@ -113,7 +113,7 @@ img.emoji-img {
 /* Greater than 1400px */
 @media (min-width: 1400px) {
 	.explore-projects {
-		background-position: bottom right;
+		background-position: right;
 	}
 }
 
