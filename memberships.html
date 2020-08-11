@@ -43,6 +43,11 @@ custom_js: memberships.js
 		    {% if item["website"] %}
 		    <button onclick="window.open('{{ item["website"] }}')" type="button" class="Button">Saiba mais</button>
 		    {% endif %}
+			
+		<!-- Visit Lattes -->
+		    {% if item["lattes"] %}
+		    <button onclick="window.open('{{ item["lattes"] }}')" type="button" class="Button">Ver currículo</button>
+		    {% endif %}
 
 		</div>
 		{% endfor %}
