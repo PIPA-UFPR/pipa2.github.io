@@ -1,7 +1,5 @@
 /* Styles specific to home page */
-.module {
-  cursor: url('jiro.png'), auto;	
-}
+cursor: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/9632/happy.png"), auto;
 
 .home-header {
 	padding-top: calc(var(--feather-grid-mega) * 3);
@@ -101,6 +99,9 @@ img.emoji-img {
 	background-repeat: no-repeat;
     	background-size: auto 380px;
 	background-position: bottom right;
+	
+	cursor: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/9632/happy.png"), auto;
+
 }
 
 /* Empty space for mobile layout of explore projects */
