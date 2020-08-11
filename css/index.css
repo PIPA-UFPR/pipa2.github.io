@@ -98,7 +98,8 @@ img.emoji-img {
 	background-image: url("../assets/atividade_horta.jpg");
 	background-repeat: no-repeat;
     	background-size: auto 380px;
-	background-position: bottom right;
+	background-position: right;
+	margin-right: 20px;
 	
 	cursor: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/9632/happy.png"), auto;
 
