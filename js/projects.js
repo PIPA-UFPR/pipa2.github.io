@@ -83,7 +83,7 @@ var renderProjects = function(projectsList, searchString="") {
 
             // Metrics button
             var metricsButton = document.createElement('button')
-            metricsButton.setAttribute("onclick", "window.open('https://pipa-ufpr.github.io/pipa2.github.io/atividades/" + project.nameWithOwner')")
+            metricsButton.setAttribute("onclick", "window.open('https://pipa-ufpr.github.io/pipa2.github.io/atividades/" + project.nameWithOwner"')")
             metricsButton.type = "button"
             metricsButton.className = "Button Button--tertiary"
             metricsButton.innerHTML = "Saiba mais"
