@@ -1,4 +1,7 @@
 /* Styles specific to home page */
+.module {
+  cursor: url('jiro.png'), auto;	
+}
 
 .home-header {
 	padding-top: calc(var(--feather-grid-mega) * 3);
