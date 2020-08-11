@@ -1,0 +1,30 @@
+---
+layout: default
+
+title: Escola Municipal Miguel Krug | PIPA UFPR
+description: Atividade na escola municipal Miguel Krug
+keywords: twitter, open, source, open source, finatra, finagle, scala
+url: https://opensource.twitter.com/projects
+custom_css: projects.css
+custom_js: projects.js
+---
+
+<!-- Header -->
+
+<div class="header simple-header">
+    <div class="Grid container">
+        <div id="header-text" class="Grid-cell">
+            <h1 class="large-title">Escola Municipal Miguel Krug</h1>
+        </div>
+    </div>
+
+</div>
+
+<!-- Container for no results text -->
+<div class="Grid container no-results-container"></div>
+
+<!-- Projects grid (See renderProjects() in projects.js) -->
+<div class="Grid container all-projects"></div>
+<!-- End of all-projects -->
+
+Em construção!
