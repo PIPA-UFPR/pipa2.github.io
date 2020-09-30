@@ -63,11 +63,12 @@ var renderProjects = function(projectsList, searchString="") {
             projectLinksDiv.className = "project-links"
 
             // GitHub link
-            var githubLink = document.createElement('a')
-            githubLink.href = getGithubURL(project)
-            githubLink.innerHTML = "Fotos"
-            githubLink.target = "_blank"
-            projectLinksDiv.appendChild(githubLink)
+            // implementar mais tarde
+            // var githubLink = document.createElement('a')
+//             githubLink.href = getGithubURL(project)
+//             githubLink.innerHTML = "Fotos"
+//             githubLink.target = "_blank"
+//             projectLinksDiv.appendChild(githubLink)
 
             // Website link (with clause)
             var homepageURL = getHomepageURL(project)
