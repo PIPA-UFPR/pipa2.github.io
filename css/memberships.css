@@ -28,6 +28,10 @@
 	  margin-top: var(--feather-grid-large);
 	}
 }
+.texto-material {
+	margin-left: 100px;
+	margin-right: 100px;
+}
 
 /* Adjusts width and margins of membership-container */
 
